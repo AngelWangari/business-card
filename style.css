@@ -1,0 +1,22 @@
+.card{
+    margin-right: auto;
+    margin-left: auto;
+    padding:20px;
+ display: flex;
+ justify-content: center;
+ border-top: 8px green solid;
+ border-right:8px green solid ;
+ border-bottom:8px purple solid ;
+ border-left:8px purple solid ;
+ width:400px;
+ background-color:#ddebf8 ;
+ text-align: center;
+
+}
+.container>i{
+    display: inline;
+    cursor: pointer;
+}
+i{
+    padding: 10px;
+}
